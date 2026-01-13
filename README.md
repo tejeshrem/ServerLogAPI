@@ -108,11 +108,3 @@ This API implements security best practices including:
 - JWT token authentication
 - Cryptographic primitives for sensitive operations
 
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
